@@ -12,9 +12,10 @@ I love programming, networking, server management, writing documentation and tes
   | REST APIs creation and testing using Node.js with Express, Chai and Mocha  | C & C++  | Wireless Networking w/ Antennas |
 
 <br/>
-<br/>
 
-### <p align="center">My Socials</p>   
+### <p align="center">You can find me on...</p>  
+
+---
 
 <!-- TODO : Add links to each image !-->
 
@@ -26,18 +27,13 @@ I love programming, networking, server management, writing documentation and tes
   <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">  
 </p>  
 
----
-
 <!-- Coding challenges -->
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">  
   <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">  
   <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">  
 </p>
-
-### <p align="center">The Coding Challenges Websites I Use</p>  
    
-<br/>
 <br/>
 
 ### <p align="center">My GitHub Stats</p>  

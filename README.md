@@ -1,4 +1,4 @@
-### <p align="center"> Hi there, I'm <a href="https://kevenimbeault.com" target="_blank">Keven Imbeault</a>👋</p>
+### <p align="center"> Hi there 👋, I'm <a href="https://kevenimbeault.com" target="_blank">Keven Imbeault</a></p>
 ---
 
 <div>
@@ -22,7 +22,7 @@ I love programming, networking, server management, writing documentation and tes
 - Currently learning in class : ```iOS App Developement, React-Native, Unity Game Making and REST APIs creation and testing using Node.js with Express, Chai and Mocha```  
 - Currently learning by myself : ```Next.JS, Web Design, C and C++```
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=KevenImbeault&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" />
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenImbeault&layout=compact&theme=react" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=KevenImbeault&hide_rank=false&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenImbeault&count_privat&layout=default&theme=react" />
   
 

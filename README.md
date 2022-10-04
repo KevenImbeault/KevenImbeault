@@ -1,7 +1,7 @@
 # <p align="center"> Hi there 👋, I'm <a href="https://kevenimbeault.com" target="_blank">Keven Imbeault</a></p>
 
-Currently a student in Computer Science @ [Collège d'Alma](https://www.collegealma.ca/), future student in Computer Engineering @ [Université du Québec à Chicoutimi](https://www.uqac.ca/)  
-I love programming, networking, server management, writing documentation and tests.  
+Graduate in Computer Science @ [Collège d'Alma](https://www.collegealma.ca/), student in Computer Engineering @ [Université du Québec à Chicoutimi](https://www.uqac.ca/)  
+I love programming, computer networking, server management, writing documentation and tests.  
 
 ### <p align="center">Currently learning...</p>   
 

@@ -7,9 +7,9 @@ I love programming, networking, server management, writing documentation and tes
 
   |  In Class |  By Myself | At Work |
   |---|---|---|
-  | iOS App Developement w/ Swift & React-Native  | Next.JS  | Proxmox Server & Containers |
-  | Unity Game Making  | Creating good web designs  | Postfix & Dovecot Email Servers |
-  | REST APIs creation and testing using Node.js with Express, Chai and Mocha  | C & C++  | Wireless Networking w/ Antennas |
+  | PIC18F Assembly  | Machine learning & AI  | Proxmox Server & Containers |
+  |   | Creating good web designs  | QGIS mapping software capabilities |
+  |   | C++ through HackerRank  | Wireless Networking w/ Antennas |
 
 <br/>
 

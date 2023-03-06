@@ -1,15 +1,15 @@
 # <p align="center"> Hi there 👋, I'm <a href="https://kevenimbeault.com" target="_blank">Keven Imbeault</a></p>
 
-Graduate in Computer Science @ [Collège d'Alma](https://www.collegealma.ca/), student in Computer Engineering @ [Université du Québec à Chicoutimi](https://www.uqac.ca/)  
-I love programming, computer networking, server management, writing documentation and tests.  
+Graduate in Computer Science @ [Collège d'Alma](https://www.collegealma.ca/), student in Electrical Engineering @ [Université du Québec à Chicoutimi](https://www.uqac.ca/)  
+I love programming, computer networking, server management, writing documentation and electronic.  
 
 ### <p align="center">Currently learning...</p>   
 
   |  In Class |  By Myself | At Work |
   |---|---|---|
-  | PIC18F Assembly  | Machine learning & AI  | Proxmox Server & Containers |
-  |   | Creating good web designs  | QGIS mapping software capabilities |
-  |   | C++ through HackerRank  | Wireless Networking w/ Antennas |
+  | Logic gates (Quartus Prime FPGA)  | Blockchain | Proxmox Server & Containers |
+  | Health and Safety mesures | Creating good web designs  | QGIS mapping software capabilities |
+  | Engineering Ethics | C++ through HackerRank  | Wireless Networking w/ Antennas |
 
 <br/>
 

@@ -9,7 +9,7 @@ I love programming, computer networking, server management, writing documentatio
   |---|---|---|
   |  | Blockchain | Proxmox Server & Containers |
   |  | Creating good web designs  | QGIS mapping software capabilities |
-  |  | C++ through HackerRank  | Wireless Networking w/ Antennas |
+  |  | C++ through HackerRank  | PHP web development |
 
 <br/>
 

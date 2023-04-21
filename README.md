@@ -7,9 +7,9 @@ I love programming, computer networking, server management, writing documentatio
 
   |  In Class |  By Myself | At Work |
   |---|---|---|
-  | Logic gates (Quartus Prime FPGA)  | Blockchain | Proxmox Server & Containers |
-  | Health and Safety mesures | Creating good web designs  | QGIS mapping software capabilities |
-  | Engineering Ethics | C++ through HackerRank  | Wireless Networking w/ Antennas |
+  |  | Blockchain | Proxmox Server & Containers |
+  |  | Creating good web designs  | QGIS mapping software capabilities |
+  |  | C++ through HackerRank  | Wireless Networking w/ Antennas |
 
 <br/>
 

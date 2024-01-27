@@ -46,10 +46,10 @@ I love programming, computer networking, server management, writing documentatio
 ### <p align="center">My GitHub Stats</p>  
 ---
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KevenImbeault&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" />
+  <img align="center" src="https://readme-stats-five-mu.vercel.app/api?username=KevenImbeault&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenImbeault&langs_count=10&count_privat&layout=compact&theme=react" />
+  <img align="center" src="https://readme-stats-five-mu.vercel.app/api/top-langs/?username=KevenImbeault&langs_count=10&count_private=true&layout=compact&theme=react" />
 </p>
 
   

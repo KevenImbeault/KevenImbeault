@@ -49,7 +49,7 @@ I love programming, computer networking, server management, writing documentatio
   <img align="center" src="https://readme-stats-five-mu.vercel.app/api?username=KevenImbeault&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
 </p>
 <p align="center">
-  <img align="center" src="https://readme-stats-five-mu.vercel.app/api/top-langs/?username=KevenImbeault&langs_count=10&count_private=true&layout=compact&theme=react" />
+  <img align="center" src="https://readme-stats-five-mu.vercel.app/api/top-langs/?username=KevenImbeault&langs_count=10&count_private=true&layout=compact&theme=react&exclude_repo=MC-Mod-Project,Vanilla-Expansion,FlixelTut,ReadmeStats,Obsidian,kevenimbeault.ca,sapper-website,React-Native,moddingtutorials.org" />
 </p>
 
   

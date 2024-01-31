@@ -3,14 +3,6 @@
 Graduate in Computer Science @ [Collège d'Alma](https://www.collegealma.ca/), student in Computer Science @ [Université du Québec à Chicoutimi](https://www.uqac.ca/)  
 I love programming, computer networking, server management, writing documentation and electronic.  
 
-### <p align="center">Currently learning...</p>   
-
-  |  In Class |  By Myself | At Work |
-  |---|---|---|
-  |  | Blockchain | Proxmox Server & Containers |
-  |  | Creating good web designs  | QGIS mapping software capabilities |
-  |  | C++ through HackerRank  | PHP web development |
-
 <br/>
 
 ### <p align="center">You can find me on...</p>  
